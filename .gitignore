@@ -1,0 +1,35 @@
+# Python-related
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+.venv/
+.env
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Data and artifacts
+artifacts/
+data/
+logs/
+*.log
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Git files
+.git/
+
+
+artifacts/*
